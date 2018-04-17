@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523988338 source:c:\users\pc hp 14\documents\github\std-final-project\aplikasi-pengiriman-barang\fungsimenu.cpp
+	"FungsiMenu.h"
+	<iostream>
+
+1523988213 c:\users\pc hp 14\documents\github\std-final-project\aplikasi-pengiriman-barang\fungsimenu.h
+	<conio.h>
+
+1523988232 source:c:\users\pc hp 14\documents\github\std-final-project\aplikasi-pengiriman-barang\main.cpp
+	<iostream>
+	<cstdlib>
+	"FungsiMenu.h"
+
