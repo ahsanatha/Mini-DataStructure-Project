@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1524533806 source:d:\kuliah\strukdat\tubes\tubes_std\list_child.cpp
+	"list_child.h"
+
+1524533798 source:d:\kuliah\strukdat\tubes\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+
+1524589335 source:d:\kuliah\strukdat\tubes\tubes_std\main.cpp
+	<iostream>
+	"stdio.h"
+	<string>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1524588583 source:d:\kuliah\strukdat\tubes\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1524588559 d:\kuliah\strukdat\tubes\tubes_std\list_parent.h
+	<iostream>
+	<string>
+
+1524533482 d:\kuliah\strukdat\tubes\tubes_std\list_child.h
+	<iostream>
+
+1524533501 d:\kuliah\strukdat\tubes\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1524533806 source:d:\strukdata\tubes_std\tubes_std\list_child.cpp
+	"list_child.h"
+
+1524718373 d:\strukdata\tubes_std\tubes_std\list_child.h
+	<iostream>
+
+1524589712 source:d:\strukdata\tubes_std\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1524588559 d:\strukdata\tubes_std\tubes_std\list_parent.h
+	<iostream>
+	<string>
+
+1524533798 source:d:\strukdata\tubes_std\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+
+1524533501 d:\strukdata\tubes_std\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1524589335 source:d:\strukdata\tubes_std\tubes_std\main.cpp
+	<iostream>
+	"stdio.h"
+	<string>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+
+1525449832 source:c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_relasi.cpp
+	"list_relasi.h"
+	<iomanip>
+	<stdio.h>
+
+1525095291 c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	"list_parent.h"
+	<iostream>
+
+1524912174 c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_child.h
+	<iostream>
+	<cstdlib>
+
+1524821782 c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_parent.h
+	<iostream>
+	<string>
+
+1525447617 source:c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\main.cpp
+	<iostream>
+	"stdio.h"
+	<string>
+	<cstdlib>
+	"list_child.h"
+	"list_parent.h"
+	"list_relasi.h"
+	"mainFunction.h"
+
+1525449832 source:c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_parent.cpp
+	"list_parent.h"
+
+1525451087 source:c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\list_child.cpp
+	"list_child.h"
+	<stdio.h>
+
+1525451366 c:\users\pc hp 14\downloads\tubes_std\tubes_std\tubes_std\mainfunction.h
+	<cstdlib>
+
